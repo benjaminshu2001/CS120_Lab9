@@ -1,7 +1,7 @@
 /*	Author: Benjamin SHu
  *  Partner(s) Name: 
  *	Lab Section: 22
- *	Assignment: Lab #8  Exercise #2
+ *	Assignment: Lab #9  Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
